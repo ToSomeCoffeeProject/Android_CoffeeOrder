@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">커피주문받습니다</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="tab_coffee">커피</string>
+    <string name="tab_tea">차</string>
+    <string name="tab_beverage">음료</string>
 </resources>
